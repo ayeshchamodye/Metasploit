@@ -1,5 +1,7 @@
 #!bin/bash
 #!bin/fish
 
-wget https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.rc
+if ![test -f session.rc]; then
+        wget https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.rc
+fi
 msfconsole -r session.rc
