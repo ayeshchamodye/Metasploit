@@ -6,4 +6,4 @@
 <br>
 [session](https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh)
 <br>
-<a href="https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh" download="session.sh">Session</a>
+<a href="data:raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh" download="session.sh">Session</a>
