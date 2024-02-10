@@ -5,3 +5,5 @@
 [pressistance script](https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh)
 <br>
 [session](https://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh)
+<br>
+<a href="data://raw.githubusercontent.com/ayeshchamodye/Metasploit/main/session.sh" download="session.sh">Session</a>
